@@ -1,3 +1,3 @@
 # Circles: Preview
 
-# Eliminate-simplified ![image](https://i.imgur.com/RdrnNH3.png)
+# Eliminate-simplified ![image](https://i.imgur.com/53ykYYG.png)
